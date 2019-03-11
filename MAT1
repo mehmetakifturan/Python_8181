@@ -1,0 +1,2 @@
+sayi=int(input("Lütfen bir sayı giriniz: "))
+print(sayi)
