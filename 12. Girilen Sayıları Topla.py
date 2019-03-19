@@ -1,5 +1,5 @@
 #Written by <Akif>
-#Bir turnuva düzenleyerek, turnuvaya katılım şartlarını kişilere sorarak turnuvaya katılıp katılamayacaklarını yazdıran program
+#0 ile yüz arasında kullanıcının sayılar girmesini ve 0’dan küçük 100’den büyük sayı girmesi durumunda girilmiş tüm sayıların toplamını yazdıran program
 print('''Birazdan sizden sürekli sayı girmeniz istenecek
 0'dan küçük ya da 100'den büyük bir sayı girerseniz
 o zamana kadar girdiğiniz tüm sayıların toplamı ekrana yazılacak''')
